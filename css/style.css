@@ -20,7 +20,7 @@ body {
 
 /* Write all remaining styles here */
 header {
-	padding-bottom: 0;
+	display: block;
 }
 
 header h1 {
