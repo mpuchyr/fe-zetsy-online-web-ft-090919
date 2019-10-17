@@ -36,3 +36,8 @@ h1 {
 	border: 5px #ccc solid;
 	padding; 1px;
 }
+
+#press p {
+	text-align: right;
+	font-size: 0.8em;
+}
