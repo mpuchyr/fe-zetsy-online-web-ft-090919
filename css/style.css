@@ -36,3 +36,7 @@ header h1 {
 	color: rgb(152, 173, 166);
 	font-size: 2em;
 }
+
+footer p {
+	font-size: 0.8em;
+}
