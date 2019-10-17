@@ -22,7 +22,7 @@ body {
 header h1 {
 	color: rgb(152, 173, 166);
 	font-size: 75px;
-	padding-bottom: auto;
+	padding-bottom: 0;
 }
 
 #featured img {
