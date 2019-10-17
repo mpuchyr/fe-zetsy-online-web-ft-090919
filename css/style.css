@@ -19,42 +19,4 @@ body {
 }
 
 /* Write all remaining styles here */
-header {
-	display: block;
-}
-h1, h2 {
-	font-family: 'Baskerville', serif;
-	font-size: 5em;
-}
 
-header h1 {
-	color: rgb(152, 173, 166);
-	font-size: 75px;
-}
-
-#featured img {
-	border: 5px rgb(152, 173, 166) solid;
-}
-
-#featured h2 {
-	color: rgb(152, 173, 166);
-	font-size: 2em;
-}
-
-#featured p {
-	display: block;
-}
-
-#press h2 {
-	color: rgb(152, 173, 166);
-	font-size: 2em;
-}
-
-#press img {
-	border: 5px #ccc solid;
-}
-
-footer p {
-	font-size: 0.8em;
-	text-align: right;
-}
