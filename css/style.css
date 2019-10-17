@@ -19,10 +19,13 @@ body {
 }
 
 /* Write all remaining styles here */
+header {
+	padding-bottom: 0;
+}
+
 header h1 {
 	color: rgb(152, 173, 166);
 	font-size: 75px;
-	padding-bottom: 0;
 }
 
 #featured img {
