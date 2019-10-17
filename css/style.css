@@ -50,6 +50,10 @@ h2 {
 	padding; 1px;
 }
 
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
+
 footer p {
 	text-align: right;
 	font-size: 0.8em;
